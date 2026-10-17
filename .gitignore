@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.deps/
+.test-temp/
+data/sessions/
+data/settings.json
+data/library/
+logs/

@@ -1,0 +1,35 @@
+[dq] g h j h f [dq] g h j h f [dq] g h j h f [dq] g h j h f
+[s0] f h j h f [s0] f h j h f [s0] f h j h f [s(] f h j h f
+[s9] d g h g d [s9] d g h g d [s9] d g h g d [s9] d g h g d
+[a8] s d f d s [a8] s d f d s [a8] s d f d s [a8] s d f d s
+[uq] u u u u y q [uq] u u u u [uq] u u u
+[u0] u u u u y 0 [u0] u u u [u(] u u u u
+[y9] t u y u y 9 [u9] y u y u y 9 t
+[u8] u u u u [u8] u u u u [u8] u u y t 8 u o [p4]
+u p a s 4 - u p a [a0] p o [oy]
+u [a0] p o [a(] p o [o9] i t
+9 t [oe] i u [u0] 0 0 [p0] 0 0 [s0] 0 0 d
+[f4] 0 t q [p4] [a0] [hu] [gy] [f8]
+r u d t p s [a8]
+[ay] [s2] [d3] [f4] 0 t q
+[p4] [a0] [hu] [gy] [f8] r u t p s [a8] y [P2] [P3]
+[uq] u u u u y q [uq] u u u u [uq] u u u
+[u0] u u u u y 0 [u0] u u u [u(] u u u u
+[y9] t u y u y 9 [u9] y u y u y 9 t
+u 8 u u u y y u 8 u u u y y u 8 u u y t t u o p 4
+u p a s 4 u p a a 0 p o o y u a 0 p o a ( p o o 9 i t
+9 t [oe] i u u 8 r [u8] u u y t r u o [p4]
+u p a s 4 - u p a [a0] p o [oy] - u [a0] p o [a(] p o [o9] i
+9 t [oe] i u [u0] 0 0 [p0] 0 0 [s0] 0 0 d [f4]
+0 t q [p4] [a0] [hu] [gy] [f8]
+r u d t p s [a8] [ay] [s2] [d3] [f4]
+0 t q [p4] [a0] [hu] [gy] [f8]
+r u t p s [a8] y [P2] [P3]
+[ft] w w w w p w a w [ht] w g w [fr] r r
+[ar] s d f d s a s d f d s a
+[s1] d f - d f h j h f [du] f h j h f [dy] f h j h f
+[pt] a h W g f 1
+a s d f d s a s d f d s [ay] s d [fu] d s [ai] s d [fu] d s
+a s d f d s P s d f d s P s d f d s [ft]
+s p - [fr] a o - [dE] P p i [de] P p
+[sw] o s f y G e y p s d p G d j

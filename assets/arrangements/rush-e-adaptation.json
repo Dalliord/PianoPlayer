@@ -1,0 +1,46 @@
+{
+  "title": "Rush E (Full Version)",
+  "artist": "Sheet Music Boss",
+  "difficulty": "Hard",
+  "retrieved_on": "2026-10-17",
+  "source_url": "https://playpianosheets.com/sheets/rush-e-full-version",
+  "source_version_file": "rush-e-full-version-hard.rps",
+  "source_sha256": "4fdc0bafbf1c1c004f1c38e7bca7bef1f225f71dcdacf6c0ce209fd261f7a796",
+  "tempo_basis_url": "https://virtualpianosheet.com/sheets/rush-e-full-version",
+  "published_bpm": 128,
+  "tempo_status": "Initial estimate from the published arrangement; not audio-aligned or tested in the browser",
+  "grid": "sixteenth",
+  "note_delay_ms": 117,
+  "effective_bpm": 128.2051282051282,
+  "key_hold_ms": 90,
+  "bass_hold_ms": 214,
+  "final_hold_ms": 700,
+  "extra_release_tail_cells": 13,
+  "duration_ms": 143676.0,
+  "source_attacks": 895,
+  "source_pitch_attacks": 1760,
+  "adapted_pitch_attacks": 1751,
+  "cluster_replacement": {
+    "source": "!(@*%^$148abcdEfghiIjklmnoOpPqQstTuvWxyYz",
+    "adapted": "1@$%^*(qWEtyuiopasdfghjklZxcvbnm",
+    "pitch_classes_preserved": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "physical_keys": 32
+  },
+  "limitations": [
+    "One extreme cluster is revoiced for physical keys; it will differ from practice grading",
+    "This is the website's full Hard arrangement, not an exact official impossible MIDI"
+  ]
+}

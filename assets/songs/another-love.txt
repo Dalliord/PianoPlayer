@@ -1,0 +1,107 @@
+[qp]-s [qp] s d q f
+e s a [9p]-g 9 f
+e-s e-d e a w-
+a w-s w p q-
+s q-d q f
+e s a [9p]-g 9 f
+e-s e-d e a
+w-a w-s w p q-
+p [qi]-p [qi]-
+q-p [qi]-p [qi]-
+[qi] s s s s-d f
+e s-s [9g] g-f
+e--s s d-a
+w-a p a s-p q--
+s s-d f e s-s [9g] g-f
+e--s s d-a
+w-a p a s--
+q-p--- q---
+q-s s s d-f
+e s s s [9g] g-f
+e--s s d-a
+w--a a s-p q--
+s s d-f e-f f [9g] g-f
+e--f f f-d
+w--d d f--
+q-s--- q---
+q- f f f g f- 8--f f g f-
+e--f g-h w-g-f g-f
+q-f f f g f- 8--f f g f-
+e--f g-h w-g-f g-f
+q-h h h j h-8--h h j h-
+[0f]--f g-h w-g-f g-f
+q--s--[8o]---
+[ed] f---[wd]---
+[qg]-s [qp] s d q f
+e s a [9p]-g 9 f
+e-s e-d e a
+w-a w-s w p q-
+s q-d q f
+e s a [9p]-g 9 f
+e-s e-d e a
+w-a w-s w p q-
+p [qi]-p [qi]- q-p [qi]-p [qi]-
+q-s [qs] s s [qs] f
+e s-[9s] g g 9 f
+e-s [es] s-[ed] a
+w a a [wp] a s w p q-
+s [qs] s d q f
+e f f [9f] g g 9 f
+e-f [ef] f f e d
+w-d [wd] d d w s q-
+s [qs] s d q f
+e f f [9g]-g 9 f
+e-f [ef] f f e d
+w-d [wd] d f w s q-
+s [qs] s d q f
+e f f [9f] g-[9d] f
+e--[ef] f f e d
+w--[wd] d f w s q-
+f [qf] f g [qf]-
+8--[8f] f g [8f]-
+e--e f g e h
+w-g w f g w f q-
+f [qf] f g [qf]-
+8--[8f] f g [8f]-
+e--e f g e h
+w-g w f g w f q-
+h [qh] h j [qh]-
+8--[8h] h j [8h]-
+[ef]--e f g e h
+w-g w f g w f q--
+q s-q-
+[8o]--8--8-
+[ed] f-e--e-
+[wd]--w--w-
+[qp]-s [qp] s d q f
+e s a [9p]-g 9 f
+e-s e-d e a
+w-a w-s w p q-
+s q-d q f
+e s a [9p]-g 9 f
+e-s e-d e a
+w-a w-s w p q-
+j [qh] j j q j
+e-j [9h] j j 9 j
+e-j [ej] j j e h
+w-k [wk] k l w j q-
+j [qh] j j q j
+e-j [9j] l-[9j] l
+e j-[ej] j j e h
+w--[wh] l l w j q-
+f [qf] f g [qf]-
+8--[8f] f g [8f]-
+0--0 f g 0 h
+w-g w f g w f q-
+f [qf] f g [qf]-
+8--[8f] f g [8f]-
+e--e f g e h
+w--[wh] h h w j q-
+j [qh] j h [qh]-
+[8f]--[8j] j h [8h]-
+[ef]--e f g e h
+w-g w f g w f
+[8qe]--s--
+[80wo]---
+[80ed] f---
+[9wrd]

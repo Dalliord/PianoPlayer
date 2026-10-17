@@ -1,0 +1,67 @@
+[
+  {
+    "id": "beastars-pf-solo",
+    "title": "BEASTARS -pf solo-",
+    "artist": "Satoru Kōsaki",
+    "difficulty": "Normal",
+    "sheet_file": "beastars-pf-solo.txt",
+    "source_url": "https://playpianosheets.com/sheets/beastars-pf-solo",
+    "practice_url": "https://playpianosheets.com/practice-online/beastars-pf-solo",
+    "note_delay_ms": 300,
+    "key_hold_ms": 200,
+    "start_delay_s": 3.0,
+    "timing_basis": "Delay: 300 ms в проигрывателе PlayPianoSheets. Hold: 200 ms по проверке пользователя на этой песне."
+  },
+  {
+    "id": "mr-sandman",
+    "title": "Mr. Sandman",
+    "artist": "The Chordettes",
+    "difficulty": "Hard",
+    "sheet_file": "mr-sandman.txt",
+    "source_url": "https://playpianosheets.com/sheets/mr-sandman",
+    "practice_url": "https://playpianosheets.com/practice-online/mr-sandman",
+    "note_delay_ms": 300,
+    "key_hold_ms": 200,
+    "start_delay_s": 3.0,
+    "timing_basis": "Delay: 300 ms по автоплееру сайта. Hold: 200 ms — начальная настройка в пределах диапазона; для Mr. Sandman вручную ещё не проверена."
+  },
+  {
+    "id": "wolf-last-dawn",
+    "title": "Until We Reach the Dawn",
+    "artist": "",
+    "difficulty": "Beyond Virtuoso",
+    "sheet_file": "wolf-last-dawn.txt",
+    "source_url": "",
+    "practice_url": "",
+    "note_delay_ms": 75,
+    "key_hold_ms": 150,
+    "start_delay_s": 3.0,
+    "timing_basis": "Оригинальная фортепианная симфоническая фантазия: 100 BPM, 125 тактов — ровно 5:00. Ложный конец и дроп с 3:02.4. Все 3541 нажатие сохранены; басы удерживаются до 1125 ms, гармонии и голоса — независимо друг от друга. Шаг — 75 ms, базовый Hold — 150 ms; отдельные удержания записаны в sheet. Звучание в браузере ещё не проверено."
+  },
+  {
+    "id": "wild-side-piano",
+    "title": "Wild Side — Piano",
+    "artist": "ALI · Sheet Music Boss arrangement",
+    "difficulty": "Hard",
+    "sheet_file": "wild-side-piano.txt",
+    "source_url": "https://www.youtube.com/watch?v=37sF3zS1x38",
+    "practice_url": "",
+    "note_delay_ms": 20,
+    "key_hold_ms": 100,
+    "start_delay_s": 3.0,
+    "timing_basis": "По переданному пиано-туториалу Wild Side: 1008 атак, около 1:30. Переход с 0:50 видео — на 0:46.56 после удаления пустого вступления. Note Delay 20 ms задаёт сетку; интервалы и индивидуальные удержания выписаны в sheet. Визуальная точность источника — 33 ms; низкие басы подняты на октаву. Звучание в браузере ещё не проверено."
+  },
+  {
+    "id": "rush-e",
+    "title": "Rush E (Full Version)",
+    "artist": "Sheet Music Boss",
+    "difficulty": "Hard",
+    "sheet_file": "rush-e.txt",
+    "source_url": "https://playpianosheets.com/sheets/rush-e-full-version",
+    "practice_url": "https://playpianosheets.com/practice-online/rush-e-full-version",
+    "note_delay_ms": 117,
+    "key_hold_ms": 90,
+    "start_delay_s": 3.0,
+    "timing_basis": "Полная Hard-аранжировка, около 2:24. Начальный темп — опубликованные 128 BPM: шестнадцатая 117 ms. Hold — 90 ms; басы 214 ms и финал 700 ms записаны в sheet. Один кластер адаптирован с 41 ноты до 32 физических клавиш. Используйте свободную игру, Transpose 0. Темп и звучание в браузере ещё не проверены."
+  }
+]

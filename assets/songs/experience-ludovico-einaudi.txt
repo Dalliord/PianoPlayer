@@ -1,0 +1,112 @@
+[QS] T [IS] T [dQ] T [IS] T 
+[eS] u [pS] u [de] u [pS] u 
+[*S] W [Su] W [*d] W [Su] W 
+[9S] e [aI] e [9S] e [dI]-
+[QS] T [pS] T [dQ] T [pS] [pT]a
+[eS] u [pS] u [de] u [pS]-
+[*S] W [Su] W [*d] W [Su] W 
+[9S] e [aI] e [9p] e [aI]-
+[QS]pTpSpTpSpTpSpTp
+[eS]pTpSpTpSpTpSpTp
+[*S]OTOSOTOSOTOSOTO
+[9S]pypapypSpypdpyp
+[QS]pTpSpTpSpTpSpTp
+[eS]pTpSpTpSpTpSpTp
+[*S]OTOSOTOSOTOSOTO
+[9S]pypapypSpypdpyT
+[*$pQ]TSTpTSTpTSTpTST
+[06ep]TSTpTSTpTSTpTST
+[*0pW]OSTpOSTpOSTpOST
+[9epQ]TSTpTSTpTSTpTST
+[*$pQ]TSTpTSTpTSTpTST
+[06ep]TSTpTSTpTSTpTST
+[*0pW]OSTpOSTpOSTpOST
+[9epQ]TSTpTSTpTSTpTST
+[*$pQ]TOIpTOIpTOIpTOI
+[06ep]TOIpTOIpTOIpTOI
+[*0pW]TOIpTOIpTOIpTOI
+[9epQ]yOIpyOIpyOIpyOI
+[*$pQ]TOIpTOIpTOIpTOI
+[06ep]TOIpTOIpTOIpTOI
+[*0ep]TOIpTOIpTOIpTOI
+[9epQ]yOIpyOIpyOIpyOI
+[$S][*T][ae][*p][$S][*T][ae][*p][$S][*T][ae][*p][$S][*T][ae][*p]
+[6S][0T][ae][0p][6S][0T][ae][0p][6S][0T][ae][0p][6S][0T][ae][0p]
+[*S][0T][aW][0p][*S][0T][aW][0p][*S][0T][aW][0p][*S][0T][aW][0p]
+[9S][Qy][ae][pQ][9S][Qy][ae][pQ][9S][Qy][ae][pQ][9S][Qy][ae][pQ]
+[$S][*T][eO][*I][$S][*T][OW][*I][$S][*T][eO][*I][$S][*T][eO][*I]
+[6S][0T][eO][0I][6S][0T][eO][0I][6S][0T][eO][0I][6S][0T][eO][0I]
+[*S][0T][OW][0I][*S][0T][OW][0I][*S][0T][OW][0I][*S][0T][OW][0I]
+[9S][Qy][eO][IQ][9S][Qy][eO][IQ][9S][Qy][0O][9I][*S][7y][6O][%I]
+[$S][*p][eT][*p][$S][*p][eT][*p][$S][*p][eT][*p][$S][*p][eT][*p]
+[6S][0p][eT][0p][6S][0p][eT][0p][6S][0p][eT][0p][6S][0p][eT][0p]
+[!S][%O][0S][%O][!S][%O][0S][%O][!S][%O][0S][%O][!S][%O][0S][%O]
+[2S][6I][Qy][6I][2S][6I][Qy][6I][2S][IQ][0y][9I][*S][7I][6y][%I]
+[$S][*p][eT][*p][$S][*p][eT][*p][$S][*p][eT][*p][$S][*p][eT][*p]
+[6S][0p][eT][0p][6S][0p][eT][0p][6S][0p][eT][0p][6S][0p][eT][0p]
+[!S][%O][0T][%O][!S][%O][0T][%O][!S][%O][0T][$O][!S][%O][0T][%O]
+[2S][6I][Qy][6I][2a][6I][Qy][6I][2S][IQ][0y][9I][*d][7I][6y][$I]
+[$L][*j][eS][*j][$L][*j][eS][*j][$z][*j][eS][*j][$z][*j][eS][*j]
+[6L][0j][eS][0j][6L][0j][eS][0j][6z][0j][eS][0j][6L][0j][eS][0j]
+[!L][%H][0S][%H][!L][%H][0S][%H][!z][%H][0S][%H][!L][%H][0S][%H]
+[2L][6G][dQ][6G][2k][6G][dQ][6G][2L][GQ][0d][9G][*z][7G][6d][%G]
+[$L][*j][eS][*j][$L][*j][eS][*j][$z][*j][eS][*j][$L][*j][eS][*j]
+[6L][0j][eS][0j][6L][0j][eS][0j][6z][0j][eS][0j][6L][0j][eS][0j]
+[!L][%H][0S][%H][!L][%H][0S][%H][!z][%H][0S][%H][!L][%H][0S][%H]
+[2L][6G][dQ][6G][2k][6G][dQ][6G][2L][6G][dQ][6G][2z][6G][dQ][6G]
+[$I] T pOT pOT pOT 
+[6p]OT pOT pOT pOT 
+[!*p]OT pOT pOT pOT 
+[29p] T p y p T p y 
+[*$pQ]OT pOT pOT pOT 
+[06ep]OT pOT pOT pOT 
+[!*%p]OT pOT pOT pOT 
+[269p] T p y p T p y 
+[$p]TSTpTSTpTSTpTST
+[6p]TSTpTSTpTSTpTST
+[!*p]OSTpOSTpOSTpOST
+[269p]TSTpTSTpTSTpTST
+[*$pQ]TSTpTSTpTSTpTST
+[06ep]TSTpTSTpTSTpTST
+[!*%p]OSTpOSTpOSTpOST
+[269p]TSTpTSTpGfdSapO
+[$p][*I][eT][*I][$p][*I][eT][*I][$p][*I][eT][*I][$p][*I][eT][*I]
+[6p][0I][eT][0I][6p][0I][eT][0I][6p][0I][eT][0I][6p][0I][eT][0I]
+[!O][%I][0T][%I][!O][%I][0T][%I][!O][%I][0T][%I][!O][%I][0T][%I]
+[2p][6I][QT][6I][2p][6I][QT][6I][2p][6I][QT][6I][2p][6I][QT][6I]
+[$p][*I][eT][*I][$p][*I][eT][*I][$p][*I][eT][*I][$p][*I][eT][*I]
+[6p][0I][eT][0I][6p][0I][eT][0I][6p][0I][eT][0I][6p][0I][eT][0I]
+[!O][%I][0T][%I][!O][%I][0T][%I][!O][%I][0T][%I][!O][%I][0T][%I]
+[2p][6I][QT][6I][2p][6I][QT][6I][2p][IQ][0T][9I][*p][7I][6T][%I]
+[$S]pTp[*S]pTp[de]pTp[*S]pTp
+[6S]pTp[0S]pTp[de]pTp[0S]pTp
+[*S]OTO[0S]OTO[SW]OTO[0S]OTO
+[9QS]IyIaIyIS[IQ][0y][9I][*d][7I][6y][%I]
+[$S]pTp[*S]pTp[de]pTp[*S]pTp
+[6S]pTp[eS]pTp[0d]pTp[eS]pTp
+[*S]OTO[0S]OTO[SW]OTO[0S]OTO
+[9QS]IyIaIyIS[IQ][0y][9I][*d][7I][6y][%I]
+[$L][*j][eS][*j][$L][*j][eS][*j][$z][*j][eS][*j][$L][*j][eS][*j]
+[6L][0j][eS][0j][6L][0j][eS][0j][6z][0j][eS][0j][6L][0j][eS][0j]
+[!L][%H][0S][%H][!L][%H][0S][%H][!z][%H][0S][%H][!L][%H][0S][%H]
+[2L][6G][dQ][6G][2k][6G][dQ][6G][2L][GQ][0d][9G][*z][7G][6d][%G]
+[$L][*j][eS][*j][$L][*j][eS][*j][$z][*j][eS][*j][$L][*j][eS][*j]
+[6L][0j][eS][0j][6L][0j][eS][0j][6z][0j][eS][0j][6L][0j][eS][0j]
+[!L][%H][0S][%H][!L][%H][0S][%H][!z][%H][0S][%H][!L][%H][0S][%H]
+[2L][6G][dQ][6G][2k][6G][dQ][6G][2L][GQ][0d][9G][*z][7G][6d][%G]
+[$L][*j][eS][*j][$L][*j][eS][*j][$z][*j][eS][*j][$L][*j][eS][*j]
+[6L][0j][eS][0j][6L][0j][eS][0j][6z][0j][eS][0j][6L][0j][eS][0j]
+[!L][%H][0S][%H][!L][%H][0S][%H][!z][%H][0S][%H][!L][%H][0S][%H]
+[2L][6G][dQ][6G][2k][6G][dQ][6G][2L][GQ][0d][9G][*z][7G][6d][%G]
+[$L][*j][eS][*j][$L][*j][eS][*j][$z][*j][eS][*j][$L][*j][eS][*j]
+[6L][0j][eS][0j][6L][0j][eS][0j][6z][0j][eS][0j][6L][0j][eS][0j]
+[!L][%H][0S][%H][!L][%H][0S][%H][!z][%H][0S][%H][!L][%H][0S][%H]
+[2L][6G][dQ][6G][2k][6G][dQ][6G][2L][6G][fQ][6d][2S][6a][pQ][6O]----
+[QS] T [IS] T [dQ] T [IS] T 
+[eS] u [pS] u [de] u [pS] u 
+[*S] W [Su] W [*d] W [Su] W 
+[9S] e [aI] e [9p] e [aI]-
+[QS] T [IS] T [dQ] T [IS] [pT]a
+[eS] u [pS] u [de] u [pS] u 
+[*S] W [Su] W [*d] W [Su] W 
+[9S] e [aI] e [9S] e [dI]-

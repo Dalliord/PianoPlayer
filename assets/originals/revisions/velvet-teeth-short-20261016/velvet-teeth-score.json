@@ -1,0 +1,9239 @@
+{
+  "title": "Velvet Teeth",
+  "original": true,
+  "revision": "short-opening-form",
+  "inspiration": "Beastars / Wild Side: compact shuffle feel; original melody",
+  "bpm": 125,
+  "meter": "4/4",
+  "grid": "sextuplet",
+  "swing_ratio": "2:1",
+  "slots_per_bar": 24,
+  "duration_ms": 92160,
+  "note_delay_ms": 80,
+  "key_hold_ms": 140,
+  "bars": [
+    {
+      "bar": 1,
+      "section": "Count-in riff",
+      "harmony": [
+        "Em6"
+      ],
+      "change_at": 12,
+      "texture": "hits",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E2"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E2",
+          "G3",
+          "C#4",
+          "F#4",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "F#4",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "E2",
+          "G3",
+          "C#4",
+          "F#4",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "F#4",
+          "B4"
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "bar": 2,
+      "section": "Count-in riff",
+      "harmony": [
+        "F#half",
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "pickup",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 282
+          }
+        ]
+      },
+      "grid": [
+        [
+          "F#2",
+          "A4"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "E4"
+        ],
+        [],
+        [
+          "A2",
+          "C5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B4"
+        ],
+        [],
+        [
+          "F#3",
+          "D#4",
+          "F#4",
+          "A4",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "D#4",
+          "F#4",
+          "A4",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 3,
+      "section": "Night walk",
+      "harmony": [
+        "Em6"
+      ],
+      "change_at": 12,
+      "texture": "riff",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C#3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "C#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "C#4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "G5"
+        ],
+        [],
+        [
+          "G3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "E5"
+        ],
+        [],
+        [
+          "C#3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 4,
+      "section": "Night walk",
+      "harmony": [
+        "Am9"
+      ],
+      "change_at": 12,
+      "texture": "riff",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4"
+        ],
+        [],
+        [
+          "C3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4"
+        ],
+        [],
+        [
+          "G3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B4"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 5,
+      "section": "Night walk",
+      "harmony": [
+        "Em9"
+      ],
+      "change_at": 12,
+      "texture": "riff",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "D4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "D4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [
+          "G3",
+          "D4"
+        ],
+        [],
+        [
+          "G3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [
+          "B3",
+          "B5"
+        ],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [
+          "G3",
+          "D4"
+        ],
+        [],
+        [
+          "D3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 6,
+      "section": "Night walk",
+      "harmony": [
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "D#4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "F#5"
+        ],
+        [],
+        [
+          "D#3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [],
+        [
+          "F#3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 7,
+      "section": "Night walk",
+      "harmony": [
+        "Em6"
+      ],
+      "change_at": 12,
+      "texture": "riff",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C#3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "C#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "C#4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "G5"
+        ],
+        [],
+        [
+          "G3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "D6"
+        ],
+        [],
+        [
+          "C#3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 8,
+      "section": "Night walk",
+      "harmony": [
+        "Cmaj9"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "E4",
+              "B4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E4",
+              "B4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "C6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4"
+        ],
+        [],
+        [
+          "E3",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [
+          "G3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4"
+        ],
+        [],
+        [
+          "B3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 9,
+      "section": "Night walk",
+      "harmony": [
+        "Am9",
+        "B7b9"
+      ],
+      "change_at": 12,
+      "texture": "riff",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "G5"
+        ],
+        [],
+        [
+          "C3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D5"
+        ],
+        [],
+        [
+          "F#3",
+          "C5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "B4"
+        ],
+        [],
+        [
+          "A3",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 10,
+      "section": "Night walk",
+      "harmony": [
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "turn",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "F#5"
+        ],
+        [],
+        [
+          "D#3",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "B4"
+        ],
+        [],
+        [
+          "F#3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "D#5"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 11,
+      "section": "Quickstep",
+      "harmony": [
+        "Em9"
+      ],
+      "change_at": 12,
+      "texture": "dry",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "D4"
+            ],
+            "hold_ms": 220
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G3",
+              "D4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G3",
+              "D4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [
+          "G3",
+          "D4"
+        ],
+        [],
+        [
+          "G3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "A5"
+        ],
+        [],
+        [
+          "B3",
+          "G5"
+        ],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "D3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "B4"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        220,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 12,
+      "section": "Quickstep",
+      "harmony": [
+        "Am9"
+      ],
+      "change_at": 12,
+      "texture": "dry",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "C5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "E5"
+        ],
+        [],
+        [
+          "C3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "A5"
+        ],
+        [],
+        [
+          "E3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [
+          "G3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "C5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 13,
+      "section": "Quickstep",
+      "harmony": [
+        "D13"
+      ],
+      "change_at": 12,
+      "texture": "dry",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "F#3",
+              "C4"
+            ],
+            "hold_ms": 220
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "F#3",
+              "C4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#3",
+              "C4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "D3",
+          "F#5"
+        ],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [
+          "F#3",
+          "C4"
+        ],
+        [],
+        [
+          "F#3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "E5"
+        ],
+        [],
+        [
+          "A3",
+          "D5"
+        ],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        [],
+        [],
+        [
+          "C3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "C6"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        220,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 14,
+      "section": "Quickstep",
+      "harmony": [
+        "Gmaj9"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "B3",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "B3",
+              "F#4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "G2",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A5"
+        ],
+        [],
+        [
+          "B2",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        [],
+        [
+          "D3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "E5"
+        ],
+        [],
+        [
+          "F#3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 15,
+      "section": "Quickstep",
+      "harmony": [
+        "Cmaj9"
+      ],
+      "change_at": 12,
+      "texture": "dry",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "E4",
+              "B4"
+            ],
+            "hold_ms": 220
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E4",
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E4",
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "G5"
+        ],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [
+          "E4",
+          "B4"
+        ],
+        [],
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5"
+        ],
+        [],
+        [
+          "G3",
+          "C5"
+        ],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "B3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        220,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 16,
+      "section": "Quickstep",
+      "harmony": [
+        "F#half"
+      ],
+      "change_at": 12,
+      "texture": "dry",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "A3",
+              "C4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A3",
+              "C4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "A3",
+              "C4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "F#2",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "G5"
+        ],
+        [],
+        [
+          "A2",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "C5"
+        ],
+        [],
+        [
+          "C3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [
+          "E3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "C6"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 17,
+      "section": "Quickstep",
+      "harmony": [
+        "B7b9"
+      ],
+      "change_at": 12,
+      "texture": "turn",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "C5",
+          "A5"
+        ],
+        [],
+        [
+          "D#3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "C5",
+          "D#5"
+        ],
+        [],
+        [
+          "F#3",
+          "C5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "B4",
+          "C5"
+        ],
+        [],
+        [
+          "A3",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 18,
+      "section": "Quickstep",
+      "harmony": [
+        "Em6",
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "break",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 20,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 282
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "G3",
+          "C#4",
+          "F#4",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B4"
+        ],
+        [],
+        [
+          "F#3",
+          "D#4",
+          "F#4",
+          "A4",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 19,
+      "section": "Open the door",
+      "harmony": [
+        "Cmaj9"
+      ],
+      "change_at": 12,
+      "texture": "open",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "E4",
+          "B4",
+          "D5",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "C3",
+          "E4",
+          "B4",
+          "D5",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "bar": 20,
+      "section": "Open the door",
+      "harmony": [
+        "Gmaj9"
+      ],
+      "change_at": 12,
+      "texture": "open",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G2"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "G2",
+          "B3",
+          "F#4",
+          "A4",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "G2",
+          "B3",
+          "F#4",
+          "A4",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "D6"
+        ],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "bar": 21,
+      "section": "Open the door",
+      "harmony": [
+        "Am9"
+      ],
+      "change_at": 12,
+      "texture": "open",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 520
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 520
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "C4",
+          "G4",
+          "B4",
+          "C6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [
+          "A2",
+          "C4",
+          "G4",
+          "B4"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        520,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 22,
+      "section": "Open the door",
+      "harmony": [
+        "D13"
+      ],
+      "change_at": 12,
+      "texture": "open",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D2"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "D2",
+          "F#3",
+          "C4",
+          "B4",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C6"
+        ],
+        [],
+        [
+          "D2",
+          "F#3",
+          "C4",
+          "B4",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 23,
+      "section": "Open the door",
+      "harmony": [
+        "Cmaj9"
+      ],
+      "change_at": 12,
+      "texture": "lift",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "G5"
+        ],
+        [],
+        [
+          "E3",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "D6"
+        ],
+        [],
+        [
+          "G3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "C6"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 24,
+      "section": "Open the door",
+      "harmony": [
+        "Am9"
+      ],
+      "change_at": 12,
+      "texture": "lift",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "C6"
+        ],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [
+          "C4",
+          "G4",
+          "B4"
+        ],
+        [],
+        [
+          "C3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "B4",
+          "G5"
+        ],
+        [],
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [
+          "C4",
+          "G4",
+          "B4"
+        ],
+        [],
+        [
+          "G3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "B4",
+          "C6"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 25,
+      "section": "Open the door",
+      "harmony": [
+        "F#half",
+        "B7b9"
+      ],
+      "change_at": 12,
+      "texture": "lift",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "F#2",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "E4",
+          "C6"
+        ],
+        [],
+        [
+          "A2",
+          "E6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "E4",
+          "D6"
+        ],
+        [],
+        [
+          "F#3",
+          "C6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "C5",
+          "A5"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "C5",
+          "D#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 26,
+      "section": "Open the door",
+      "harmony": [
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "pickup",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D#6"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 282
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "A5"
+        ],
+        [],
+        [
+          "D#3",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#6"
+        ],
+        [],
+        [
+          "F#3",
+          "D#4",
+          "F#4",
+          "A4",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [
+          "A3",
+          "D#4",
+          "F#4",
+          "A4",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 27,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Gmaj9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "G2",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "A5"
+        ],
+        [],
+        [
+          "B2",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "D5"
+        ],
+        [],
+        [
+          "D3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "E5"
+        ],
+        [],
+        [
+          "F#3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "G5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 28,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "D13"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "D3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "B4"
+        ],
+        [],
+        [
+          "F#3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "B4",
+          "F#5"
+        ],
+        [],
+        [
+          "A3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "B4"
+        ],
+        [],
+        [
+          "C3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "B4",
+          "F#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 29,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Em9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "F#4",
+          "B5"
+        ],
+        [],
+        [
+          "G3",
+          "D6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "F#4",
+          "B5"
+        ],
+        [],
+        [
+          "B3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "F#4",
+          "G5"
+        ],
+        [],
+        [
+          "D3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "F#4",
+          "D5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 30,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "D#4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "F#5"
+        ],
+        [],
+        [
+          "D#3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [],
+        [
+          "F#3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 31,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Cmaj9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "B5"
+        ],
+        [],
+        [
+          "E3",
+          "C6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "B5"
+        ],
+        [],
+        [
+          "G3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "G5"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "E5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 32,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Gmaj9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "G2",
+          "D6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4"
+        ],
+        [],
+        [
+          "B2",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "A5"
+        ],
+        [],
+        [
+          "D3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4"
+        ],
+        [],
+        [
+          "F#3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "G5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 33,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Am9",
+        "D13"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "F#3",
+              "C4",
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "C6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "B4",
+          "B5"
+        ],
+        [],
+        [
+          "C3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4",
+          "B4",
+          "G5"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "B4",
+          "A5"
+        ],
+        [],
+        [
+          "C3",
+          "C6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "C4",
+          "B4",
+          "D6"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 34,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Gmaj9",
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "turn",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G2"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B3",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "G2",
+          "B5"
+        ],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [
+          "B3",
+          "F#4",
+          "A4"
+        ],
+        [],
+        [
+          "B2",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B3",
+          "F#4",
+          "A4",
+          "D5"
+        ],
+        [],
+        [
+          "F#3",
+          "D#5"
+        ],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        [
+          "D#4",
+          "F#4",
+          "A4"
+        ],
+        [],
+        [
+          "A3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 35,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Em6"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C#3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "F#4",
+          "G5"
+        ],
+        [],
+        [
+          "G3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "F#4",
+          "G5"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "F#4",
+          "E5"
+        ],
+        [],
+        [
+          "C#3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "F#4",
+          "G5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 36,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Am9"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "C4",
+              "G4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4"
+        ],
+        [],
+        [
+          "C3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "G4"
+        ],
+        [],
+        [
+          "G3",
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B4"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 37,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Em9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "D3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G3",
+              "D4",
+              "F#4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [
+          "G3",
+          "D4",
+          "F#4"
+        ],
+        [],
+        [
+          "G3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "F#4",
+          "A5"
+        ],
+        [],
+        [
+          "B3",
+          "B5"
+        ],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [
+          "G3",
+          "D4",
+          "F#4"
+        ],
+        [],
+        [
+          "D3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "D4",
+          "F#4",
+          "E5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 38,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "F#5"
+        ],
+        [],
+        [
+          "D#3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "B5"
+        ],
+        [],
+        [
+          "F#3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "D#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 39,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Cmaj9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E6"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "D6"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "E6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "D6"
+        ],
+        [],
+        [
+          "E3",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "G5"
+        ],
+        [],
+        [
+          "G3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "A5"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E4",
+          "B4",
+          "D5",
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 40,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "A13",
+        "Am6"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C#6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "C#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "C4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "C#6"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C#4",
+          "F#4"
+        ],
+        [],
+        [
+          "C#3",
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [
+          "E3",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C4",
+          "F#4"
+        ],
+        [],
+        [
+          "F#3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 41,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "F#half",
+        "B7b9"
+      ],
+      "change_at": 12,
+      "texture": "chorus",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#4",
+              "A4",
+              "C5"
+            ],
+            "hold_ms": 141
+          }
+        ]
+      },
+      "grid": [
+        [
+          "F#2",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "E4",
+          "G5"
+        ],
+        [],
+        [
+          "A2",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4",
+          "E4",
+          "C5"
+        ],
+        [],
+        [
+          "F#3",
+          "B4"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "C5",
+          "D#5"
+        ],
+        [],
+        [
+          "A3",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "A4",
+          "C5",
+          "A5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 42,
+      "section": "Dancing on the edge",
+      "harmony": [
+        "Em6"
+      ],
+      "change_at": 12,
+      "texture": "break",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 3,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 15,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 211
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 211
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G3",
+              "C#4",
+              "F#4"
+            ],
+            "hold_ms": 211
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "G3",
+          "C#4",
+          "F#4",
+          "G5"
+        ],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B4"
+        ],
+        [],
+        [
+          "G3",
+          "B3",
+          "C#4",
+          "F#4",
+          "E5"
+        ],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        211,
+        null,
+        null,
+        211,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        211,
+        null,
+        null,
+        211,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 43,
+      "section": "Last turn",
+      "harmony": [
+        "Cmaj9",
+        "Am9"
+      ],
+      "change_at": 12,
+      "texture": "open",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 520
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E4",
+              "B4",
+              "D5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C4",
+              "G4",
+              "B4"
+            ],
+            "hold_ms": 520
+          }
+        ]
+      },
+      "grid": [
+        [
+          "C3",
+          "E4",
+          "B4",
+          "D5",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [
+          "D5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "C5"
+        ],
+        [],
+        [
+          "A2",
+          "C4",
+          "G4",
+          "B4"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        520,
+        null,
+        null,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 44,
+      "section": "Last turn",
+      "harmony": [
+        "F#half",
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "answer",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "A3",
+              "C4"
+            ],
+            "hold_ms": 300
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "D#4",
+              "F#4"
+            ],
+            "hold_ms": 300
+          }
+        ]
+      },
+      "grid": [
+        [
+          "F#2",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A3",
+          "C4"
+        ],
+        [],
+        [
+          "A2",
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        [],
+        [
+          "F#3",
+          "C5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#4",
+          "F#4"
+        ],
+        [],
+        [
+          "A3",
+          "B4"
+        ],
+        [],
+        [],
+        [],
+        [
+          "D#5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        300,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 45,
+      "section": "Last turn",
+      "harmony": [
+        "Em6"
+      ],
+      "change_at": 12,
+      "texture": "riff",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "E3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "G3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "B3"
+            ],
+            "hold_ms": 350
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "C#3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 4,
+            "pitches": [
+              "G3",
+              "C#4"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "G3",
+              "C#4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "E3",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "G5"
+        ],
+        [],
+        [
+          "G3",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        [],
+        [
+          "B3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G3",
+          "C#4",
+          "E5"
+        ],
+        [],
+        [
+          "C#3"
+        ],
+        [],
+        [],
+        [],
+        [
+          "G5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        282,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        422,
+        null,
+        350,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 46,
+      "section": "Last turn",
+      "harmony": [
+        "A13",
+        "Am6"
+      ],
+      "change_at": 12,
+      "texture": "open",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C#6"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "B5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 10,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "G5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 22,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 141
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 422
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "C#4",
+              "F#4",
+              "G4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "C4",
+              "F#4",
+              "B4"
+            ],
+            "hold_ms": 422
+          }
+        ]
+      },
+      "grid": [
+        [
+          "A2",
+          "C#4",
+          "F#4",
+          "G4",
+          "C#6"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "B5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "A5"
+        ],
+        [],
+        [
+          "A2",
+          "C4",
+          "F#4",
+          "B4",
+          "G5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "E5"
+        ],
+        []
+      ],
+      "holds_ms": [
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        141,
+        null
+      ]
+    },
+    {
+      "bar": 47,
+      "section": "Last turn",
+      "harmony": [
+        "F#half",
+        "B7"
+      ],
+      "change_at": 12,
+      "texture": "cadence",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 141
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 16,
+            "pitches": [
+              "B4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 20,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 282
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#2"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A2"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "F#3"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 18,
+            "pitches": [
+              "A3"
+            ],
+            "hold_ms": 350
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 6,
+            "pitches": [
+              "A3",
+              "C4",
+              "E4"
+            ],
+            "hold_ms": 422
+          },
+          {
+            "slot": 12,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 282
+          },
+          {
+            "slot": 20,
+            "pitches": [
+              "D#4",
+              "F#4",
+              "A4"
+            ],
+            "hold_ms": 282
+          }
+        ]
+      },
+      "grid": [
+        [
+          "F#2",
+          "A3",
+          "C4",
+          "E4",
+          "A5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "F#5"
+        ],
+        [],
+        [
+          "A2",
+          "A3",
+          "C4",
+          "E4",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [
+          "F#3",
+          "D#4",
+          "F#4",
+          "A4",
+          "D#5"
+        ],
+        [],
+        [],
+        [],
+        [
+          "B4"
+        ],
+        [],
+        [
+          "A3"
+        ],
+        [],
+        [
+          "D#4",
+          "F#4",
+          "A4",
+          "D#5"
+        ],
+        [],
+        [],
+        []
+      ],
+      "holds_ms": [
+        282,
+        null,
+        null,
+        null,
+        141,
+        null,
+        422,
+        null,
+        null,
+        null,
+        null,
+        null,
+        282,
+        null,
+        null,
+        null,
+        282,
+        null,
+        350,
+        null,
+        282,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "bar": 48,
+      "section": "Last turn",
+      "harmony": [
+        "B7",
+        "Em"
+      ],
+      "change_at": 4,
+      "texture": "seal",
+      "voices": {
+        "lead": [
+          {
+            "slot": 0,
+            "pitches": [
+              "F#5"
+            ],
+            "hold_ms": 120
+          },
+          {
+            "slot": 2,
+            "pitches": [
+              "D#5"
+            ],
+            "hold_ms": 120
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "E5"
+            ],
+            "hold_ms": 800
+          }
+        ],
+        "bass": [
+          {
+            "slot": 0,
+            "pitches": [
+              "B2"
+            ],
+            "hold_ms": 120
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "E2"
+            ],
+            "hold_ms": 800
+          }
+        ],
+        "comp": [
+          {
+            "slot": 0,
+            "pitches": [
+              "D#4",
+              "A4"
+            ],
+            "hold_ms": 120
+          },
+          {
+            "slot": 4,
+            "pitches": [
+              "B2",
+              "G3",
+              "B3",
+              "E4",
+              "G4"
+            ],
+            "hold_ms": 800
+          }
+        ]
+      },
+      "grid": [
+        [
+          "B2",
+          "D#4",
+          "A4",
+          "F#5"
+        ],
+        [],
+        [
+          "D#5"
+        ],
+        [],
+        [
+          "E2",
+          "B2",
+          "G3",
+          "B3",
+          "E4",
+          "G4",
+          "E5"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "holds_ms": [
+        120,
+        null,
+        120,
+        null,
+        800,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}
